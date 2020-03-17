@@ -1,0 +1,23 @@
+{
+  "name": "makejokes",
+  "version": "1.0.7",
+  "description": "Generate random jokes from command line",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AxDu"
+  ],
+  "author": "AxDu",
+  "license": "ISC",
+  "bin": {
+    "joke": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.4"
+  }
+}
