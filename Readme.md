@@ -1,4 +1,4 @@
-#### Install makeajoke
+#### Install makejokes
     
        npm i -g makejokes
 
